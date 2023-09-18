@@ -94,5 +94,3 @@ If you would like to contribute to this project or improve the email spam predic
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize and extend this template to suit your specific email spam prediction project needs. Happy spam prediction!
